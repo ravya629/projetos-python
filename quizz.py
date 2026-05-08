@@ -58,3 +58,5 @@ elif pontuacao == 1:
     print("🙂 Você pode melhorar!")
 else:
     print("📚 Estude mais e tente novamente!")
+
+    # ravy dants da silva
